@@ -1,7 +1,5 @@
 # Financial Time Series Forecasting with Neural Networks
 
-## Project Overview
-
 This project focuses on building and evaluating neural network models for forecasting financial time series. It involves comparing the predictive performance of neural networks against a traditional [AR-GARCH](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) model. The project was undertaken as part of the VBA for finance course at ESILV during the 2018-2019 academic year.
 
 ## Project Goals
